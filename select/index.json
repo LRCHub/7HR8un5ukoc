@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "ゆめゆめ",
+  "base_artist": "DECO*27",
+  "createdAt": "2026-03-15T09:22:43.401667Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "努努-ゆめゆめ-",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/01_努努-ゆめゆめ-_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ゆめゆめ feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/02_ゆめゆめ_feat._初音ミク_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ゆめゆめ",
+      "artist": "DECO*27 feat. 初音ミク",
+      "has_synced": false,
+      "path": "select/03_ゆめゆめ_DECO_27_feat._初音ミク.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "努努-ゆめゆめ-",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/04_努努-ゆめゆめ-_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ゆめゆめ",
+      "artist": "初音ミク",
+      "has_synced": true,
+      "path": "select/05_ゆめゆめ_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ゆめゆめ / DECO*27 Feat. 初音ミク",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/06_ゆめゆめ___DECO_27_Feat._初音ミク_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ゆめゆめ",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/07_ゆめゆめ_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ゆめゆめ (sasakure.UK ElectricSheep Remix)",
+      "artist": "DECO*27 feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/08_ゆめゆめ_(sasakure.UK_ElectricSheep_Remix)_DECO_27_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ゆめゆめ",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/09_ゆめゆめ_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ゆめゆめ",
+      "artist": "DECO*27/初音ミク",
+      "has_synced": true,
+      "path": "select/10_ゆめゆめ_DECO_27_初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "努努-ゆめゆめ- - Yume Yume",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/11_努努-ゆめゆめ-_-_Yume_Yume_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "努努 -ゆめゆめ-",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/12_努努_-ゆめゆめ-_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ゆめゆめ",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/pl_01_ゆめゆめ_DECO_27.txt"
+    }
+  ]
+}
